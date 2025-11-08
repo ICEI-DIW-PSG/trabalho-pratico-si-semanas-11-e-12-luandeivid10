@@ -6,20 +6,20 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Luan Deivid
+- Matricula: 904044
+- Proposta de projeto escolhida: Carros
+- Breve descrição sobre seu projeto: Um site sobre carros, seus lançamentos e informações sobre eles.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![](/public/get.jpg)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![](/public/postdiw.jpg)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![](/public/put.jpg)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![](/public/delete.jpg)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
